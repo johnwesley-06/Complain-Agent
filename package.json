@@ -1,0 +1,11 @@
+{
+  "name": "sortd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SORTD - Problems, sorted. Full-stack Complaint Management System Web Application",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "seed": "npm --prefix server run seed"
+  }
+}
